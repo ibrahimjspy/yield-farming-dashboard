@@ -93,8 +93,4 @@ MIT
 ---
 
 **Enjoy farming safely!**
-Made with ❤️ by \M Ibrahim and the DeFi builder community.
-
----
-
-Let me know if you want a shorter version or want sections for “troubleshooting,” “FAQ,” or “how to add more protocols”!
+Made with ❤️ by M Ibrahim and the DeFi builder community.
